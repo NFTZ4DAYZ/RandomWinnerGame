@@ -28,7 +28,7 @@ Oracles like Chainlink are used to provide randomness in the deterministic envir
 with the smart contract itself.
 
 
-<a href=https://random-winner-game-nine.vercel.app/' target='_blank'><img src='https://i.postimg.cc/DzKn8tQK/random-Winner1.png' border='0' alt='memory-Game'/></a>
+<a href='https://random-winner-game-nine.vercel.app/' target='_blank'><img src='https://i.postimg.cc/DzKn8tQK/random-Winner1.png' border='0' alt='memory-Game'/></a>
 
 
 
